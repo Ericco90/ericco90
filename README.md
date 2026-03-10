@@ -67,7 +67,7 @@ Website landing page untuk toko sembako.
 
 Landing page untuk jasa travel umroh dan haji.
 
-![Preview](preview.4)
+![Preview](preview4.png)
 
 🔗 https://ericco90.github.io/Travel-Umroh-Haji/
 
