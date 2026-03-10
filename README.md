@@ -7,7 +7,7 @@
 
 # 🚀 Skills
 
-![HTML](https://img.shields.io/badge/HTML5-Developer-orange?logo=html5)
+![HTML](preview.png)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-Frontend-blue?logo=tailwindcss)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Basic-yellow?logo=javascript)
 
