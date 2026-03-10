@@ -47,7 +47,7 @@ Landing page untuk jasa bordir komputer.
 
 Website sederhana untuk usaha kuliner bakso dan soto.
 
-![Preview](preview3)
+![Preview](preview3.png)
 
 🔗 https://ericco90.github.io/Bakso-Soto-PRIMA-SARI/
 
