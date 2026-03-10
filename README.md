@@ -7,7 +7,7 @@
 
 # 🚀 Skills
 
-![HTML](preview.png)
+![HTML](https://img.shields.io/badge/HTML5-Developer-orange?logo=html5)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-Frontend-blue?logo=tailwindcss)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Basic-yellow?logo=javascript)
 
@@ -27,7 +27,7 @@
 
 Landing page untuk jasa konveksi pembuatan kaos dan seragam.
 
-![Preview](https://via.placeholder.com/800x400.png?text=Konveksi+Baladewa)
+![Preview](preview.png)
 
 🔗 https://ericco90.github.io/Konveksi_BalaDewa/
 
@@ -37,7 +37,7 @@ Landing page untuk jasa konveksi pembuatan kaos dan seragam.
 
 Landing page untuk jasa bordir komputer.
 
-![Preview](https://via.placeholder.com/800x400.png?text=Bordir+Komputer+AB)
+![Preview](preview1.png)
 
 🔗 https://ericco90.github.io/AB-Bordir-Komputer/
 
@@ -47,7 +47,7 @@ Landing page untuk jasa bordir komputer.
 
 Website sederhana untuk usaha kuliner bakso dan soto.
 
-![Preview](https://via.placeholder.com/800x400.png?text=Bakso+Soto+Prima+Sari)
+![Preview](preview3)
 
 🔗 https://ericco90.github.io/Bakso-Soto-PRIMA-SARI/
 
@@ -57,7 +57,7 @@ Website sederhana untuk usaha kuliner bakso dan soto.
 
 Website landing page untuk toko sembako.
 
-![Preview](https://via.placeholder.com/800x400.png?text=Toko+Sembako)
+![Preview](preview2.png)
 
 🔗 https://ericco90.github.io/landingpage-toko-sembako/
 
@@ -67,7 +67,7 @@ Website landing page untuk toko sembako.
 
 Landing page untuk jasa travel umroh dan haji.
 
-![Preview](https://via.placeholder.com/800x400.png?text=Travel+Umroh+Haji)
+![Preview](preview.4)
 
 🔗 https://ericco90.github.io/Travel-Umroh-Haji/
 
